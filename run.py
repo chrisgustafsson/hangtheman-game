@@ -84,7 +84,7 @@ def play_game(word):
 
 """
 Function for displaying the hangman.
-Big thanks to user rhysics @ github for the one-line solution used. 
+Big thanks to user rhysics @ github for the one-line solution used.
 """
 
 
