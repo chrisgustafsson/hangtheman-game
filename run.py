@@ -35,6 +35,17 @@ def play_game(word):
     print(display_hangman(steps))
     print(word_completion)
     print("\n")
+    while not guess and steps > 0:
+        guesses = input("Make a guess of a letter or word:\n").upper()
+        if len(guesses) == 1 and guesses.isalpha():
+
+        elif len(guesses) == len(word) and guesses.isalpha():
+        
+        else:
+            print("Invalid input, please guess a letter or word.")
+            print(display_hangman(steps))
+            print(word_completion)
+            print("\n")
 
 
 def display_hangman(steps):
