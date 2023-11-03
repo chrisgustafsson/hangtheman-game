@@ -107,6 +107,9 @@ def display_hangman(steps):
     return stages[steps]
 
 
+# Functionality for providing the user with an option to play again
+
+
 def play_again():
     while True:
         response = input("Would you like to play again? (YES/NO): ").upper()
