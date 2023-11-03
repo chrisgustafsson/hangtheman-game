@@ -84,3 +84,11 @@ It's not more than blank spaces correlating with the amount of letters you shoul
 * Scoreboard
 * Difficulty
 * Categories
+
+- - -
+
+## Technologies Used
+
+* [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+
+- - -
