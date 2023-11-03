@@ -55,7 +55,15 @@ def play_game(word):
                 if "_" not in word_completion:
                     guess = True      
         elif len(guesses) == len(word) and guesses.isalpha():
-        
+            if guesses in guess_words:
+                print("You already guessed the word silly", guesses)
+            elif guesses != word:
+                print(guesses, "is not the word we look for!")
+                steps -= 1
+                guess_words.append(guesses)
+            else:
+                guess = True
+                word_completion = word
         else:
             print("Invalid input, please guess a letter or word.")
             print(display_hangman(steps))
