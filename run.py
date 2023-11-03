@@ -18,7 +18,11 @@ def get_word():
 
 def intro():
     introduction = [
-
+        "Welcome to a classic game of Hangman!",
+        "No difference in rules even though the name difference.",
+        "In Swedish (creators main language) it is called hang the man.",
+        "Hence where the game got it's name. Just guess a letter to start",
+        "The aim is to find the word before you are hung!" 
     ]
 
 
