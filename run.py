@@ -98,3 +98,5 @@ def main():
         play_game(word)
 
 
+if __name__ == "__main__":
+    main()
