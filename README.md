@@ -187,3 +187,22 @@ By forking the repository, we make a copy of the original repository on our GitH
 6. Type `git clone` and then paste The URL copied in the step 3.
 7. Press Enter and your local clone will be created.
 
+## Credits
+
+### Code
+
+* Code Institute lessons within Python
+* Extensive wordlist from user [YungNewton](https://github.com/YungNewton) and [chrishorton](https://github.com/chrishorton) @ github
+* Text to ASCII Art Generator from [Patorjk](https://patorjk.com/software/taag/#p=display&h=0&v=0&f=Tmplr&t=HANGTHEMAN)
+* Introductory videos on youtube regarding Python
+* Stackoverflow user davidkonrad for checkmarks in README, [thread](https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table)
+
+### Content
+
+* All content except word-bank (see "code" above) was written by the developer.
+
+## Acknowledgements
+
+ * My mentor Mitko Bachvarov provided helpful feedback.
+ * Slack community for encouragement.
+ * Big thanks overall to the developing community in being a place where you always can find multiple solutions to one issue
