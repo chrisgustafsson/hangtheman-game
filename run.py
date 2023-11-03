@@ -108,9 +108,7 @@ def play_again():
 def main():
     word = get_word()
     play_game(word)
-    while input("Would you like to play again? (yes/no) ").upper() == "YES":
-        word = get_word()
-        play_game(word)
+
 
 
 if __name__ == "__main__":
