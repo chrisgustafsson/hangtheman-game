@@ -94,6 +94,17 @@ def display_hangman(steps):
     return stages[steps]
 
 
+def play_again():
+    while True:
+        response = input("Would you like to play again? (YES/NO): ").upper()
+        if response in ("YES"):
+            return True
+        elif response in ("NO"):
+            return False
+        else:
+            print("Invalid input. Please enter 'YES' or 'NO'.")
+
+
 def main():
     word = get_word()
     play_game(word)
