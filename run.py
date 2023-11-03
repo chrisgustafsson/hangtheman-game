@@ -47,7 +47,12 @@ def play_game(word):
             else:
                 print("Amazing, well done", guesses, "is there!")
                 guess_letters.append(guesses)
-                         
+                word_as_list = list(word_completion)
+                indices = [i for i, letter in enumerate(word) if letter == guesses]
+                for index in indices:
+                    word_as_list[index] = guesses
+                word_completion = "".join(word_as_list)
+                      
         elif len(guesses) == len(word) and guesses.isalpha():
         
         else:
