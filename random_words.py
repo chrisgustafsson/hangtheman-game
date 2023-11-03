@@ -52,4 +52,4 @@ words = ('ant baboon badger bat bear beaver camel cat clam cobra cougar '
          'tooth top touch town trade train transport tray tree trick '
          'under unit up use value verse very vessel view violent voice '
          'way weather week weight well west wet wheel when where while whip '
-         'window wine wing winter wire wise with woman wood wool word work ').split()
+         'window wine wing winter wire wise with woman wood wool ').split()
