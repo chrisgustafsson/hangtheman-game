@@ -93,3 +93,8 @@ def display_hangman(steps):
 def main():
     word = get_word()
     play_game(word)
+    while input ("Would you like to play again? (yes/no) ").upper() == "YES":
+        word = get_word()
+        play_game(word)
+
+
