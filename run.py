@@ -52,7 +52,8 @@ def play_game(word):
                 for index in indices:
                     word_as_list[index] = guesses
                 word_completion = "".join(word_as_list)
-                      
+                if "_" not in word_completion:
+                    guess = True      
         elif len(guesses) == len(word) and guesses.isalpha():
         
         else:
