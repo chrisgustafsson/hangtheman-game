@@ -109,6 +109,8 @@ It's not more than blank spaces correlating with the amount of letters you shoul
     * To deploy the project.
 * [CI Python Linter](https://pep8ci.herokuapp.com/)
     * Check code for any issues.
+* [Draw.io](http://draw.io/)
+    * To create a logic flowchart of the hangman game.
 
 ## Testing 
 
