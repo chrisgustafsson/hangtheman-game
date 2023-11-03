@@ -11,3 +11,6 @@ def display_title():
     ]
 
 
+def get_word():
+    word = random.choice(words)
+    return word.upper()
