@@ -106,3 +106,20 @@ It's not more than blank spaces correlating with the amount of letters you shoul
 * [CI Python Linter](https://pep8ci.herokuapp.com/)
     * Check code for any issues.
 
+## Testing 
+
+CI Python Linter was used to test run.py and random_words.py
+
+<details>
+<summary> run.py CI Python Linter check
+</summary>
+
+![run.py linter check]()
+</details>
+
+<details>
+<summary> random_words.py CI Python Linter check
+</summary>
+
+![random_words.py linter check]()
+</details>
