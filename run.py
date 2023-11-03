@@ -28,6 +28,9 @@ def intro():
         "The aim is to find the word before you are hung!"]
 
 
+# Logic for the game itself and the steps to either a loss or win.
+
+
 def play_game(word):
     word_completion = "_" * len(word)
     guess = False
