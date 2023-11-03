@@ -12,11 +12,13 @@ def display_title():
         "======================"]
 
 
+# Function to retrieve word from word-bank
 def get_word():
     word = random.choice(words)
     return word.upper()
 
 
+# Introduction to the game and title with easy to understand rules
 def intro():
     return [
         "Welcome to a classic game of Hangman!",
