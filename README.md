@@ -38,3 +38,12 @@ It's not more than blank spaces correlating with the amount of letters you shoul
 
 - - -
 
+## Features
+
+* Computer chooses a random word
+* Basic interface in black and white, good contrast
+* Input functionality for letter/word
+* Visual cues to track wrong guesses
+* Win/Loss message at the end of game
+* Play again possibilities
+
