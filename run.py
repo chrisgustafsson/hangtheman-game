@@ -3,7 +3,7 @@ from random_words import words
 
 
 def display_title():
-    title = [
+    return [
         "┓┏┏┓┳┓┏┓┏┳┓┓┏┏┓┳┳┓┏┓┳┓",
         "┣┫┣┫┃┃┃┓ ┃ ┣┫┣ ┃┃┃┣┫┃┃",
         "┛┗┛┗┛┗┗┛ ┻ ┛┗┗┛┛ ┗┛┗┛┗",
@@ -16,7 +16,7 @@ def get_word():
 
 
 def intro():
-    introduction = [
+    return [
         "Welcome to a classic game of Hangman!",
         "No difference in rules even though the name difference.",
         "In Swedish (creators main language) it is called hang the man.",
@@ -30,8 +30,8 @@ def play_game(word):
     guess_letters = []
     guess_words = []
     steps = 6
-    print(display_title)
-    print(intro)
+    print("\n".join(display_title()))
+    print("\n".join(intro()))
     print(display_hangman(steps))
     print(word_completion)
     print("\n")
