@@ -37,3 +37,20 @@ def play_game(word):
     print(display_hangman(steps))
     print(word_completion)
     print("\n")
+
+
+def display_hangman(steps):
+    stages = [
+        "  +---+\n  |   |\n      |\n      |\n      |\n      |\n=========", 
+
+        "  +---+\n  |   |\n  O   |\n      |\n      |\n      |\n=========",
+
+        "  +---+\n  |   |\n  O   |\n  |   |\n      |\n      |\n=========",
+
+        "  +---+\n  |   |\n  O   |\n /|   |\n      |\n      |\n=========", 
+
+        "  +---+\n  |   |\n  O   |\n /|\  |\n      |\n      |\n=========",
+
+        "  +---+\n  |   |\n  O   |\n /|\  |\n /    |\n      |\n=========",
+
+        "  +---+\n  |   |\n  O   |\n /|\  |\n / \  |\n      |\n========="]
