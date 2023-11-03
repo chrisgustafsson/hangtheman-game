@@ -3,6 +3,7 @@ import random
 from random_words import words
 
 
+# Function for the title of the game shown at the top
 def display_title():
     return [
         "┓┏┏┓┳┓┏┓┏┳┓┓┏┏┓┳┳┓┏┓┳┓",
