@@ -122,6 +122,9 @@ def play_again():
             print("Invalid input. Please enter 'YES' or 'NO'.")
 
 
+# Main loop for what you see in the command line until play again is false
+
+
 def main():
     while True:
         word = get_word()
