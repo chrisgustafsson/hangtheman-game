@@ -76,3 +76,11 @@ It's not more than blank spaces correlating with the amount of letters you shoul
 * Play again
 
 ![Play again]()
+
+## Future features
+
+* More words to expand possibilities
+* Multiplayer - one picking word and one playing
+* Scoreboard
+* Difficulty
+* Categories
