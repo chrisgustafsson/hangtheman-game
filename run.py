@@ -1,5 +1,5 @@
-import random_words
 import random
+from random_words import words
 
 
 def display_title():
@@ -9,4 +9,5 @@ def display_title():
         "┛┗┛┗┛┗┗┛ ┻ ┛┗┗┛┛ ┗┛┗┛┗",
         "======================"
     ]
+
 
