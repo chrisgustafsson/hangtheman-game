@@ -114,14 +114,14 @@ CI Python Linter was used to test run.py and random_words.py
 <summary> run.py CI Python Linter check
 </summary>
 
-![run.py linter check]()
+![run.py linter check](/readme-pictures/run-ci-linter.JPG)
 </details>
 
 <details>
 <summary> random_words.py CI Python Linter check
 </summary>
 
-![random_words.py linter check]()
+![random_words.py linter check](/readme-pictures/words-ci-linter.JPG)
 </details>
 
 ## Manual Testing
