@@ -53,7 +53,7 @@ def play_game(word):
                     word_as_list[index] = guesses
                 word_completion = "".join(word_as_list)
                 if "_" not in word_completion:
-                    guess = True      
+                    guess = True
         elif len(guesses) == len(word) and guesses.isalpha():
             if guesses in guess_words:
                 print("You already guessed the word silly", guesses)
@@ -72,18 +72,18 @@ def play_game(word):
     if guess:
         print("Well done, you are now safe! Champion!")
     else:
-        print("You lost! The word we were looking for was: " + word)    
+        print("You lost! The word we were looking for was: " + word)
 
 
 def display_hangman(steps):
     stages = [
-        "  +---+\n  |   |\n      |\n      |\n      |\n      |\n=========", 
+        "  +---+\n  |   |\n      |\n      |\n      |\n      |\n=========",
 
         "  +---+\n  |   |\n  O   |\n      |\n      |\n      |\n=========",
 
         "  +---+\n  |   |\n  O   |\n  |   |\n      |\n      |\n=========",
 
-        "  +---+\n  |   |\n  O   |\n /|   |\n      |\n      |\n=========", 
+        "  +---+\n  |   |\n  O   |\n /|   |\n      |\n      |\n=========",
 
         "  +---+\n  |   |\n  O   |\n /|\  |\n      |\n      |\n=========",
 
