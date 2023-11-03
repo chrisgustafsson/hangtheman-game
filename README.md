@@ -17,3 +17,8 @@ It's fun and will prove to be a challenge, don't step away from it.
 The computer decides on a word that you then have to guess letter by letter or if possible the word in it's entirety straight away.
 If you fail to do so you will lose and be hung while safety is in guessing the correct word. 
 
+## User Experience (UX)
+
+A very simple but oh so enjoyable game that is easy to get the hang of and spend time on. 
+It's not more than blank spaces correlating with the amount of letters you should guess to win.
+
