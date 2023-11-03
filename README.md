@@ -123,3 +123,21 @@ CI Python Linter was used to test run.py and random_words.py
 
 ![random_words.py linter check]()
 </details>
+
+## Manual Testing
+
+Manual testing has been performed through the codeanywhere console throughout the project and furthermore when deployed to heroku.
+
+| Feature | Result | Step | Works as intended |
+| ------- | -------------- | ----------- | ------------- |
+| Intro   | Logo and intro shown | None | :heavy_check_mark: |
+| Guess a letter   | Ask user to guess a letter | None | :heavy_check_mark: |
+| Correct Guess   | Display message of correct guess | Guessed a correct letter | :heavy_check_mark: |
+| Incorrect Guess   | Display message of incorrect guess | Guessed an incorrect letter | :heavy_check_mark: |
+| Invalid input/guess   | Display invalid input message | Invalid input | :heavy_check_mark: |
+| Already guessed  | Display guessed already message | Guess same letter twice  | :heavy_check_mark: |
+| Hangman steps   | Update hangman | Input a letter guess  | :heavy_check_mark: |
+| Win   | Display win message | Guess the word | :heavy_check_mark: |
+| Loss   | Display lose message | Fail to guess the word in six tries | :heavy_check_mark: |
+| Play Again   | Display play again | Choose "YES" to play again and "NO" to end | :heavy_check_mark: |
+
