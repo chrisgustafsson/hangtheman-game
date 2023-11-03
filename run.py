@@ -106,9 +106,11 @@ def play_again():
 
 
 def main():
-    word = get_word()
-    play_game(word)
-
+    while True:
+        word = get_word()
+        play_game(word)
+        if not play_again():
+            break
 
 
 if __name__ == "__main__":
