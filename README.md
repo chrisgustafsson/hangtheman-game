@@ -6,7 +6,7 @@ To start playing the user guesses a letter or if they feel extra cocky they can 
 
 It's fun and will prove to be a challenge, don't step away from it. 
 
-![Home Screen]()
+![Home Screen](/readme-pictures/start-screen.JPG)
 
 [View HANGTHEMAN live project here](https://hangtheman-5f8b3d25bf0d.herokuapp.com/)
 
