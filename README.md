@@ -47,3 +47,32 @@ It's not more than blank spaces correlating with the amount of letters you shoul
 * Win/Loss message at the end of game
 * Play again possibilities
 
+### Existing Features
+
+* Intro screen (Logo and Intro copy)
+
+![Intro Screen]()
+
+* Ask user to make a guess
+
+![Guess a letter]()
+
+* Correct Guess
+
+![Correct guess]()
+
+* Incorrect Guess
+
+![Incorrect guess]()
+
+* Win
+
+![Win]()
+
+* Loss
+
+![Loss]()
+
+* Play again
+
+![Play again]()
