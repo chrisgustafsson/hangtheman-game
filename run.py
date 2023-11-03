@@ -16,6 +16,12 @@ def get_word():
     return word.upper()
 
 
+def intro():
+    introduction = [
+
+    ]
+
+
 def play_game(word):
     word_completion = "_" * len(word)
     guess = False
@@ -24,5 +30,6 @@ def play_game(word):
     steps = 6
     print(display_title)
     print(intro)
+    print(display_hangman(steps))
     print(word_completion)
     print("\n")
