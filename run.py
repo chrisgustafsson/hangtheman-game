@@ -82,6 +82,12 @@ def play_game(word):
         print("You lost! The word we were looking for was: " + word)
 
 
+"""
+Function for displaying the hangman.
+Big thanks to user rhysics @ github for the one-line solution used. 
+"""
+
+
 def display_hangman(steps):
     stages = [
         "  +---+\n  |   |\n      |\n      |\n      |\n      |\n=========",
