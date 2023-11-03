@@ -69,6 +69,10 @@ def play_game(word):
         print(display_hangman(steps))
         print(word_completion)
         print("\n")
+    if guess:
+        print("Well done, you are now safe! Champion!")
+    else:
+        print("You lost! The word we were looking for was" + word)    
 
 
 def display_hangman(steps):
