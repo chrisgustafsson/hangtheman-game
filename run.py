@@ -38,7 +38,16 @@ def play_game(word):
     while not guess and steps > 0:
         guesses = input("Make a guess of a letter or word:\n").upper()
         if len(guesses) == 1 and guesses.isalpha():
-
+            if guesses in guess_letters:
+                print("You already guessed this letter silly", guesses)
+            elif guesses not in word:
+                print(guesses, "This letter is not in the word. Try again!")
+                steps -= 1
+                guess_letters.append(guesses)
+            else:
+                print("Amazing, well done", guesses, "is there!")
+                guess_letters.append(guesses)
+                         
         elif len(guesses) == len(word) and guesses.isalpha():
         
         else:
