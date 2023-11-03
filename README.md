@@ -141,3 +141,13 @@ Manual testing has been performed through the codeanywhere console throughout th
 | Loss   | Display lose message | Fail to guess the word in six tries | :heavy_check_mark: |
 | Play Again   | Display play again | Choose "YES" to play again and "NO" to end | :heavy_check_mark: |
 
+## Input validation testing
+
+* Guess a letter
+    * Cannot continue with empty input
+    * Must be a letter
+
+* Play again
+    * Cannot continue with empty input
+    * Must be "YES" or "NO"
+
