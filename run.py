@@ -90,3 +90,6 @@ def display_hangman(steps):
     return stages[steps]
 
 
+def main():
+    word = get_word()
+    play_game(word)
