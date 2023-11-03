@@ -51,31 +51,31 @@ It's not more than blank spaces correlating with the amount of letters you shoul
 
 * Intro screen (Logo and Intro copy)
 
-![Intro Screen]()
+![Intro Screen](/readme-pictures/start-screen.JPG)
 
 * Ask user to make a guess
 
-![Guess a letter]()
+![Guess a letter](/readme-pictures/guess-a-letter.JPG)
 
 * Correct Guess
 
-![Correct guess]()
+![Correct guess](/readme-pictures/correct-guess.JPG)
 
 * Incorrect Guess
 
-![Incorrect guess]()
+![Incorrect guess](/readme-pictures/incorrect-guess.JPG)
 
 * Win
 
-![Win]()
+![Win](/readme-pictures/win.JPG)
 
 * Loss
 
-![Loss]()
+![Loss](/readme-pictures/loss.JPG)
 
 * Play again
 
-![Play again]()
+![Play again](/readme-pictures/play-again.JPG)
 
 ## Future features
 
