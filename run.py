@@ -1,3 +1,4 @@
+# Importing of words for the game
 import random
 from random_words import words
 
