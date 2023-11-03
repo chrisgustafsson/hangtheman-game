@@ -66,9 +66,9 @@ def play_game(word):
                 word_completion = word
         else:
             print("Invalid input, please guess a letter or word.")
-            print(display_hangman(steps))
-            print(word_completion)
-            print("\n")
+        print(display_hangman(steps))
+        print(word_completion)
+        print("\n")
 
 
 def display_hangman(steps):
