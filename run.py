@@ -85,4 +85,8 @@ def display_hangman(steps):
 
         "  +---+\n  |   |\n  O   |\n /|\  |\n /    |\n      |\n=========",
 
-        "  +---+\n  |   |\n  O   |\n /|\  |\n / \  |\n      |\n========="]
+        "  +---+\n  |   |\n  O   |\n /|\  |\n / \  |\n      |\n========="
+    ]
+    return stages[steps]
+
+
