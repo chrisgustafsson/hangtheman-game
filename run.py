@@ -100,6 +100,7 @@ def play_again():
         if response in ("YES"):
             return True
         elif response in ("NO"):
+            print("Thank you for playing the game! Hope to see you again!")
             return False
         else:
             print("Invalid input. Please enter 'YES' or 'NO'.")
