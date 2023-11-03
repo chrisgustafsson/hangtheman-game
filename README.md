@@ -11,3 +11,9 @@ It's fun and will prove to be a challenge, don't step away from it.
 [View HANGTHEMAN live project here](https://hangtheman-5f8b3d25bf0d.herokuapp.com/)
 
 - - -
+
+## How to Play
+
+The computer decides on a word that you then have to guess letter by letter or if possible the word in it's entirety straight away.
+If you fail to do so you will lose and be hung while safety is in guessing the correct word. 
+
