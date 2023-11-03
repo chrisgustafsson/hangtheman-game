@@ -19,7 +19,7 @@ If you fail to do so you will lose and be hung while safety is in guessing the c
 
 ## Logic flowchart
 
-![Flowchart]()
+![Flowchart](/readme-pictures/flowchart.JPG)
 
 ## User Experience (UX)
 
