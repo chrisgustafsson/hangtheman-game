@@ -22,3 +22,19 @@ If you fail to do so you will lose and be hung while safety is in guessing the c
 A very simple but oh so enjoyable game that is easy to get the hang of and spend time on. 
 It's not more than blank spaces correlating with the amount of letters you should guess to win.
 
+### User Stories
+
+* First-time visitor goals
+    * Understand the how-to-play part
+    * Play it to test your guessing-skills
+
+* Returning visitor goals
+    * Keep on playing the game and challenge yourself
+    * Share the experience
+
+* Frequent user goals
+    * Use as a type of party game or one of those games you play to waste time
+    * Perfect your skills
+
+- - -
+
