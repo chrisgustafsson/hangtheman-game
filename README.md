@@ -201,6 +201,7 @@ By forking the repository, we make a copy of the original repository on our GitH
 * Extensive wordlist from user [YungNewton](https://github.com/YungNewton) and [chrishorton](https://github.com/chrishorton) @ github
 * Text to ASCII Art Generator from [Patorjk](https://patorjk.com/software/taag/#p=display&h=0&v=0&f=Tmplr&t=HANGTHEMAN)
 * Introductory videos on youtube regarding Python
+* Company Kite and user caelan-io for their guiding and explanatory coding videos
 * Stackoverflow user davidkonrad for checkmarks in README, [thread](https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table)
 
 ### Content
